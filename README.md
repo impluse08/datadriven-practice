@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cedar_rain_1606), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Duty](./practice/python/double-duty) | Python | Medium | 2026-09-24 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-24 |
 
 <!-- datadriven:index:end -->
