@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-04 |
 | [Double Duty](./practice/python/double-duty) | Python | Medium | 2026-09-24 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-24 |
 
