@@ -1,15 +1,16 @@
-# cedar_rain_1606's data engineering practice
+# pranav_sarwe's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/cedar_rain_1606), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/pranav_sarwe), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
 ## The Weekly
 
-A hidden stream of a million raw records, one handler, graded blind at the freeze.
+1 data engineering challenge a week on hidden production data, graded blind at the freeze.
 
 | Week | Score | Rank | |
 |---|---:|---|---|
+| [Week 4: The Interface](./weekly/week-04-the-interface) | 0.5922 | #4 of 6 | [brief](https://datadriven.io/community/week-4) |
 | [Week 3: The Register](./weekly/week-03-the-register) | 0.8469 | #5 of 14 | [brief](https://datadriven.io/community/week-3) |
 
 ## Practice
